@@ -1,5 +1,7 @@
 # xmrig-upx-bins
 
+[PROJECT MOVED TO HERE](https://github.com/uPlexa/xmrig-upx/)
+
 
 XMRig-UPX is mining software for the uPlexa (cryptonight-upx) algorithm. This software utilizes a percentage of your CPU (adjustable by yourself) to mine uPlexa coins. This software is portable (does not install). Thus, if you wish to remove the software, simply remove the files (xmrig-upx directory).
 
