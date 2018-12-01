@@ -1,6 +1,6 @@
 # xmrig-upx-bins
 
-# [PROJECT MOVED TO HERE](https://github.com/uPlexa/xmrig-upx/)
+# [PROJECT MOVED TO HERE >> ](https://github.com/uPlexa/xmrig-upx/)
 
 
 
